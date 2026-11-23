@@ -1,1 +1,2 @@
 # sakayna-project
+is a console-based reservation and ticketing simulator modeled after the real-world routes, bus liners, and fare rules of the Batangas City Grand Terminal. Users can browse destinations, view real-time bus seat maps, reserve or pay for seats immediately, apply statutory passenger discounts (Student, Senior/PWD, Child), and track terminal revenue. The system's foundation revolves around the four main Object-Oriented Programming (OOP) principles to ensure clean data protection, modular bus tier scaling, and accurate fare calculation.
