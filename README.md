@@ -231,6 +231,341 @@ Main Menu (1-7) ─► Select Destination & Bus ─► View 2x2 Seat Map ─► 
 
 ---
 
+ # How to Run the Program
+
+## PREREQUISITES
+
+1. Before running the program, make sure that Java JDK is installed on your computer. Open your terminal and check the installation by typing:
+
+```bash
+java -version
+javac -version
+```
+
+2. Go to the GitHub repository:
+
+   https://github.com/karlskiee/sakayna-project
+
+3. Click the green **Code** button and select **Download ZIP**.
+
+4. Extract the downloaded ZIP file into your preferred folder.
+
+## AFTERWARDS, COMPILE THE PROGRAM:
+
+5. Open Visual Studio Code or another Java-supported IDE.
+
+6. Select **File**, then choose **Open Folder** and open the extracted `sakayna-project` folder.
+
+7. Open the `src` folder containing the Java source files.
+
+8. Open a new terminal inside the `src` folder.
+
+9. Compile all Java files by entering:
+
+```bash
+javac *.java
+```
+
+10. After successful compilation, run the program by typing:
+
+```bash
+java Main
+```
+
+11. The Batangas Grand Terminal - Bus Ticket Reservation System will appear in the terminal.
+
+---
+
+## TO NAVIGATE THE PROGRAM:
+
+### 1. Main Menu
+
+- Displays the available features of the bus ticket reservation system.
+- Users can choose from seven options:
+  - 1 - Select Destination to View Bus Liners & Book Ticket
+  - 2 - View All Terminal Schedules & Fares
+  - 3 - View Bus Seat Map
+  - 4 - Confirm Payment for a Reserved Seat
+  - 5 - Cancel Reservation / Release Seat
+  - 6 - View All Tickets & Revenue Summary
+  - 7 - Exit
+
+### 2. Destination Selection
+
+- Choose a destination from Batangas Grand Terminal.
+- Available destinations include:
+  - Cubao (via Skyway)
+  - Cubao (via C-5)
+  - LRT Buendia
+  - PITX
+  - Alabang (Star Mall)
+  - Lucena
+  - Nasugbu
+  - Calamba / Turbina
+- The system displays the available bus liners traveling to the selected destination.
+
+### 3. Bus Selection
+
+- Enter the Bus ID from the displayed list.
+- The system checks whether the selected bus belongs to the chosen destination.
+- Displays the bus liner, destination, departure time, fare, and seat availability.
+
+### 4. Seat Selection
+
+- Displays the seat map of the selected bus.
+- Users can choose an available seat.
+- The system checks whether the selected seat can be booked.
+
+Seat indicators:
+
+- `[01]` - Available Seat
+- `[RS]` - Reserved Seat
+- `[XX]` - Occupied Seat
+
+### 5. Passenger Information
+
+- Enter the passenger's full name.
+- Enter the passenger's contact number.
+- Select the passenger classification:
+  - Regular
+  - Student
+  - Senior Citizen / PWD
+  - Child Below 7 Years
+
+### 6. Booking and Payment Selection
+
+Users can choose between two booking options:
+
+- **Option 1: Reserve Seat Only**
+  - Holds the selected seat as RESERVED `[RS]`.
+  - Allows the passenger to pay later.
+
+- **Option 2: Book & Pay Now**
+  - Immediately marks the selected seat as OCCUPIED `[OC]`.
+  - Generates a ticket with paid status.
+
+### 7. Official Ticket Generation
+
+- After a successful booking, the system generates an official ticket.
+- Displays the following information:
+  - Ticket ID
+  - Passenger Name
+  - Bus Liner
+  - Route
+  - Seat Number
+  - Total Fare
+  - Payment Status
+
+### 8. Confirm Payment
+
+- Enter the Reserved Ticket ID.
+- The system checks whether the ticket exists and is eligible for payment confirmation.
+- Once payment is confirmed, the seat status changes from RESERVED `[RS]` to OCCUPIED `[OC]`.
+- Displays the updated official ticket.
+
+### 9. Cancel Reservation
+
+- Enter the Ticket ID to be cancelled.
+- The system checks whether the ticket exists and can be cancelled.
+- Once successfully cancelled, the seat becomes AVAILABLE again.
+
+### 10. View All Tickets & Revenue Summary
+
+- Displays all active tickets and reservations.
+- Shows passenger information, bus details, routes, seat numbers, fares, and payment statuses.
+- Displays the total number of active tickets, collected revenue, and pending revenue.
+
+### 11. Exit Program
+
+- Select option 7 to exit the program.
+- Displays an exit message.
+
+---
+
+# Sample Output
+
+### 1. Main Menu
+
+Displays the system title and the seven available menu options.
+
+```text
+============================================================
+ BATANGAS GRAND TERMINAL - BUS TICKET RESERVATION SYSTEM
+============================================================
+
+--- MAIN MENU ---
+1. Select Destination to View Bus Liners & Book Ticket
+2. View All Terminal Schedules & Fares
+3. View Bus Seat Map (Available / Reserved / Occupied)
+4. Confirm Payment for a Reserved Seat ([RS] -> [OC])
+5. Cancel Reservation / Release Seat
+6. View All Tickets & Revenue Summary
+7. Exit
+
+Select an option (1-7):
+```
+
+### 2. Destination Selection
+
+Displays the available destinations from Batangas Grand Terminal.
+
+```text
+--- STEP 1: SELECT DESTINATION FROM BATANGAS GRAND TERMINAL ---
+
+[1] Cubao (via Skyway)
+[2] Cubao (via C-5)
+[3] LRT Buendia
+[4] PITX
+[5] Alabang (Star Mall)
+[6] Lucena
+[7] Nasugbu
+[8] Calamba / Turbina
+
+Choose Destination:
+```
+
+### 3. Bus Selection
+
+Displays the bus liners traveling to the selected destination, including their schedules and fares.
+
+```text
+--- STEP 2: BUS LINERS TRAVELING TO SELECTED DESTINATION ---
+
+BUS ID   | BUS LINER       | DESTINATION | DEPARTURE | FARE
+-------------------------------------------------------------
+BUS-101  | Ceres Transport | Cubao       | 05:00 AM  | PHP 287.00
+BUS-102  | Goldstar        | Cubao       | 05:30 AM  | PHP 287.00
+BUS-103  | DLTB Co.        | Cubao       | 06:00 AM  | PHP 286.00
+
+Enter Bus ID from the list above to proceed:
+```
+
+### 4. Seat Selection
+
+Displays the seat map of the selected bus.
+
+```text
+--- SEAT MAP ---
+
+[01] [02] [03] [04]
+[05] [06] [07] [08]
+[09] [10] [11] [12]
+[13] [14] [15] [16]
+
+[17] [18] [19] [20]
+[21] [22] [23] [24]
+[25] [26] [27] [28]
+
+[29] [30] [31] [32]
+[33] [34] [35] [36]
+[37] [38] [39] [40]
+
+Select an Available Seat Number:
+```
+
+### 5. Passenger Information
+
+Requests the passenger's personal information and classification.
+
+```text
+Enter Passenger Full Name: Juan Dela Cruz
+Enter Contact Number: 09123456789
+
+Select Passenger Type:
+[1] Regular
+[2] Student
+[3] Senior Citizen / PWD
+[4] Child Below 7 Years
+
+Enter passenger type:
+```
+
+### 6. Booking Action
+
+Allows the passenger to choose whether to reserve the seat or pay immediately.
+
+```text
+Select Booking Action:
+
+[1] Reserve Seat Only (Hold as RESERVED [RS] - Pay Later)
+[2] Book & Pay Now (Mark as OCCUPIED [OC])
+
+Enter choice (1-2):
+```
+
+### 7. Successful Booking and Official Ticket
+
+Displays the generated ticket after a successful booking.
+
+```text
+Booking recorded successfully!
+
+========================================
+              OFFICIAL TICKET
+========================================
+Ticket ID   : TKT-XXXX
+Passenger   : Juan Dela Cruz
+Bus Liner   : Ceres Transport
+Route       : Batangas Grand Terminal to Cubao
+Seat Number : 1
+Total Fare  : PHP 287.00
+Status      : PAID
+========================================
+```
+
+### 8. Confirm Payment
+
+Displays the result after successfully confirming payment for a reserved seat.
+
+```text
+Enter Reserved Ticket ID to confirm payment:
+TKT-XXXX
+
+Payment confirmed! Seat #1 is now OCCUPIED [OC].
+
+========================================
+              OFFICIAL TICKET
+========================================
+Ticket ID   : TKT-XXXX
+Passenger   : Juan Dela Cruz
+Status      : PAID
+========================================
+```
+
+### 9. Cancel Reservation
+
+Displays the confirmation after successfully cancelling a reservation.
+
+```text
+Enter Ticket ID to cancel:
+TKT-XXXX
+
+Ticket TKT-XXXX cancelled.
+The seat is now AVAILABLE again.
+```
+
+### 10. View All Tickets & Revenue Summary
+
+Displays the active tickets and revenue summary.
+
+```text
+--- ISSUED TICKETS & RESERVATIONS ---
+
+Ticket ID | Passenger | Bus Liner | Seat | Fare | Status
+
+Total Active Tickets: 1
+Collected Revenue: PHP 287.00
+Pending Revenue: PHP 0.00
+```
+
+### 11. Exit Program
+
+Displays the final message when the user chooses to exit.
+
+```text
+Exiting system. Thank you!
+```
+
 ## Group 7
 * **Dolor, John Karl** (`@karlskiee`)
 * **Macaraig, Brenlesly** (`@brenleslymacaraig`)
