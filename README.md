@@ -276,7 +276,7 @@ java Main
 
 ---
 
-## TO NAVIGATE THE PROGRAM:
+## *TO NAVIGATE THE PROGRAM:*
 
 ### 1. Main Menu
 
@@ -382,7 +382,7 @@ Users can choose between two booking options:
 
 ---
 
-# Sample Output
+# *Sample Output*
 
 ### 1. Main Menu
 
