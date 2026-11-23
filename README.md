@@ -233,7 +233,7 @@ Main Menu (1-7) ─► Select Destination & Bus ─► View 2x2 Seat Map ─► 
 
  ## ***How to Run the Program***
 
-## PREREQUISITES
+### PREREQUISITES
 
 1. Before running the program, make sure that Java JDK is installed on your computer. Open your terminal and check the installation by typing:
 
@@ -250,7 +250,7 @@ javac -version
 
 4. Extract the downloaded ZIP file into your preferred folder.
 
-## AFTERWARDS, COMPILE THE PROGRAM:
+### AFTERWARDS, COMPILE THE PROGRAM:
 
 5. Open Visual Studio Code or another Java-supported IDE.
 
