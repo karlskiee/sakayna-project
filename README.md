@@ -231,7 +231,7 @@ Main Menu (1-7) ─► Select Destination & Bus ─► View 2x2 Seat Map ─► 
 
 ---
 
- # How to Run the Program
+ ## How to Run the Program
 
 ## PREREQUISITES
 
