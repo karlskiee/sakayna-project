@@ -1,6 +1,6 @@
 # SakayNa: A Bus Ticket Reservation System with Seat Selection and Rule-Based Fare Computation
 
-> A Java-based console reservation and ticketing simulator modeled after the Batangas City Grand Terminal. Users can browse destinations, view real-time 3-state seat maps (`[01]` Available, `[RS]` Reserved, `[XX]` Occupied), reserve or pay for seats immediately, apply passenger discounts (Student, Senior Citizen/PWD, Child), and monitor terminal revenue. The program's foundation revolves around the four main OOP principles to ensure clean data protection, modular bus tier scaling, and accurate rule-based fare computation.[cite: 1, 2, 3]
+> A Java-based console reservation and ticketing simulator modeled after the Batangas City Grand Terminal. Users can browse destinations, view real-time 3-state seat maps (`[01]` Available, `[RS]` Reserved, `[XX]` Occupied), reserve or pay for seats immediately, apply passenger discounts (Student, Senior Citizen/PWD, Child), and monitor terminal revenue. The program's foundation revolves around the four main OOP principles to ensure clean data protection, modular bus tier scaling, and accurate rule-based fare computation.
 
 * **Terminal Hub:** Batangas Grand Terminal (Cubao via Skyway/C-5, LRT Buendia, PITX, Alabang, Lucena, Nasugbu, Calamba)
 * **Seat Legend:** `[01]` Available | `[RS]` Reserved | `[XX]` Occupied
