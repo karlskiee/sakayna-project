@@ -574,7 +574,10 @@ Exiting system. Thank you!
     <th>Name</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/karlskiee.png" width="100" /></td>
+    <td>
+      <!-- NOTE: Palitan ang link sa ibaba kung gagamit ng sariling picture ni Dolor, John Karl -->
+      <img src="https://github.com/karlskiee.png" width="100" />
+    </td>
     <td>
       <b>Dolor, John Karl</b><br>
       <a href="https://github.com/karlskiee">
@@ -582,26 +585,35 @@ Exiting system. Thank you!
       </a>
     </td>
   </tr>
- <tr>
-    <td><img src="https://github.com/brenleslymacaraig.png" width="100" /></td>
+  <tr>
+    <td>
+      <!-- NOTE: Palitan ang link sa ibaba kung gagamit ng sariling picture ni Macaraig, Brenlesly -->
+      <img src="https://github.com/brenleslymacaraig.png" width="100" />
+    </td>
     <td>
       <b>Macaraig, Brenlesly</b><br>
       <a href="https://github.com/brenleslymacaraig">
-        <img src="[https://img.shields.io/badge/GitHub-100000?style=flat&logo=github](https://scontent.fmnl37-1.fna.fbcdn.net/v/t1.15752-9/929889170_1144196924686120_5057922159914180048_n.jpg?stp=dst-jpg_tt6&cstp=mx747x883&ctp=s747x883&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEjXpp80pWFofUnwagGBlt4m701glVzmF-bvTWCVXOYX06B7pGsSiC6xItseJ4SRbRoAp7-9zPdsPh9m_DC-OR1&_nc_ohc=zhRNunUAajYQ7kNvwF_kItS&_nc_oc=Adq41Teb7WsU66opGmVf7ZDY5ipNt3UwAAH0UEqD6lhXJ12RJFDjpGvyOUbgIUXwMxA&_nc_zt=23&_nc_ht=scontent.fmnl37-1.fna&_nc_ss=7b3a8&oh=03_Q7cD7AEsdm0A3Ctux2TW3NzRp0RMRFXS37lU09MNikl7EqE9IA&oe=6B30E37C)&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/JM-HOBIE.png" width="100" /></td>
+    <td>
+      (https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/935833739_1575612471271061_6944279824876690266_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFJOSlABc2Niy2ebOyZaOa8y7Mwcj0MStnLszByPQxK2S338cylWCYzV9RL4CGIuvj0ZEwIfp3HqmSpBbFYGjBS&_nc_ohc=jJfxyRlALYgQ7kNvwFisjG0&_nc_oc=Adpl5jKpxx266nltiPkbWDaHd77XctVvAufLCmybpWzFYdfWnHx6zWCQz2EIKbqS7v4&_nc_zt=23&_nc_ht=scontent.fmnl33-5.fna&_nc_ss=7b3a8&oh=03_Q7cD7AGAPM82gv6dFiN91B62jIvP8lpeXibnEo1agkscJwMbkw&oe=6B30C8F5)>
+      <img src="https://github.com/JM-HOBIE.png" width="100" />
+    </td>
     <td>
       <b>Mercado, Jove</b><br>
       <a href="https://github.com/JM-HOBIE">
-        <img src="[https://img.shields.io/badge/GitHub-100000?style=flat](https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/935833739_1575612471271061_6944279824876690266_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFJOSlABc2Niy2ebOyZaOa8y7Mwcj0MStnLszByPQxK2S338cylWCYzV9RL4CGIuvj0ZEwIfp3HqmSpBbFYGjBS&_nc_ohc=jJfxyRlALYgQ7kNvwFisjG0&_nc_oc=Adpl5jKpxx266nltiPkbWDaHd77XctVvAufLCmybpWzFYdfWnHx6zWCQz2EIKbqS7v4&_nc_zt=23&_nc_ht=scontent.fmnl33-5.fna&_nc_ss=7b3a8&oh=03_Q7cD7AGAPM82gv6dFiN91B62jIvP8lpeXibnEo1agkscJwMbkw&oe=6B30C8F5)&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/villanuevaabegail603-ux.png" width="100" /></td>
+    <td>
+      <!-- NOTE: Palitan ang link sa ibaba kung gagamit ng sariling picture ni Villanueva, Abegail -->
+      <img src="https://github.com/villanuevaabegail603-ux.png" width="100" />
+    </td>
     <td>
       <b>Villanueva, Abegail</b><br>
       <a href="https://github.com/villanuevaabegail603-ux">
