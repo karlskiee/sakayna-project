@@ -573,10 +573,13 @@ Exiting system. Thank you!
     <th></th>
     <th>Name</th>
   </tr>
+
+  <!-- MEMBER 1: DOLOR, JOHN KARL -->
   <tr>
-    <td><img src="![Uploading 935833739_1575612471271061_6944279824876690266_n.jpg…]()
-<img width="1254" height="1254" alt="935833739_1575612471271061_6944279824876690266_n" src="https://github.com/user-attachments/assets/74bbecda-1125-457c-a5b5-a10963d4aa1d" />
-" width="100" /></td>
+    <td>
+      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI JOHN KARL (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_DOLOR.jpg) -->
+      <img src="ILAGAY_DITO_ANG_PICTURE_NI_DOLOR.jpg" width="100" />
+    </td>
     <td>
       <b>Dolor, John Karl</b><br>
       <a href="https://github.com/karlskiee">
@@ -584,8 +587,13 @@ Exiting system. Thank you!
       </a>
     </td>
   </tr>
+
+  <!-- MEMBER 2: MACARAIG, BRENLESLY -->
   <tr>
-    <td><img src="assets/macaraig.jpg" width="100" /></td>
+    <td>
+      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI BRENLESLY (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_MACARAIG.jpg) -->
+      <img src="ILAGAY_DITO_ANG_PICTURE_NI_MACARAIG.jpg" width="100" />
+    </td>
     <td>
       <b>Macaraig, Brenlesly</b><br>
       <a href="https://github.com/brenleslymacaraig">
@@ -593,8 +601,13 @@ Exiting system. Thank you!
       </a>
     </td>
   </tr>
+
+  <!-- MEMBER 3: MERCADO, JOVE -->
   <tr>
-    <td><img src="assets/mercado.jpg" width="100" /></td>
+    <td>
+      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI JOVE (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_MERCADO.jpg) -->
+      <img src="935833739_1575612471271061_6944279824876690266_n.jpg" width="100" />
+    </td>
     <td>
       <b>Mercado, Jove</b><br>
       <a href="https://github.com/JM-HOBIE">
@@ -602,8 +615,13 @@ Exiting system. Thank you!
       </a>
     </td>
   </tr>
+
+  <!-- MEMBER 4: VILLANUEVA, ABEGAIL -->
   <tr>
-    <td><img src="assets/villanueva.jpg" width="100" /></td>
+    <td>
+      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI ABEGAIL (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_VILLANUEVA.jpg) -->
+      <img src="ILAGAY_DITO_ANG_PICTURE_NI_VILLANUEVA.jpg" width="100" />
+    </td>
     <td>
       <b>Villanueva, Abegail</b><br>
       <a href="https://github.com/villanuevaabegail603-ux">
