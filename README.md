@@ -573,13 +573,8 @@ Exiting system. Thank you!
     <th></th>
     <th>Name</th>
   </tr>
-
-  <!-- MEMBER 1: DOLOR, JOHN KARL -->
   <tr>
-    <td>
-      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI JOHN KARL (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_DOLOR.jpg) -->
-      <img src="ILAGAY_DITO_ANG_PICTURE_NI_DOLOR.jpg" width="100" />
-    </td>
+    <td><img src="https://github.com/karlskiee.png" width="100" /></td>
     <td>
       <b>Dolor, John Karl</b><br>
       <a href="https://github.com/karlskiee">
@@ -587,13 +582,8 @@ Exiting system. Thank you!
       </a>
     </td>
   </tr>
-
-  <!-- MEMBER 2: MACARAIG, BRENLESLY -->
   <tr>
-    <td>
-      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI BRENLESLY (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_MACARAIG.jpg) -->
-      <img src="ILAGAY_DITO_ANG_PICTURE_NI_MACARAIG.jpg" width="100" />
-    </td>
+    <td><img src="https://github.com/brenleslymacaraig.png" width="100" /></td>
     <td>
       <b>Macaraig, Brenlesly</b><br>
       <a href="https://github.com/brenleslymacaraig">
@@ -601,27 +591,17 @@ Exiting system. Thank you!
       </a>
     </td>
   </tr>
-
-  <!-- MEMBER 3: MERCADO, JOVE -->
   <tr>
-    <td>
-      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI JOVE (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_MERCADO.jpg) -->
-      <img src="935833739_1575612471271061_6944279824876690266_n.jpg" width="100" />
-    </td>
+    <td><img src="https://github.com/JM-HOBIE.png" width="100" /></td>
     <td>
       <b>Mercado, Jove</b><br>
       <a href="https://github.com/JM-HOBIE">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/935833739_1575612471271061_6944279824876690266_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFJOSlABc2Niy2ebOyZaOa8y7Mwcj0MStnLszByPQxK2S338cylWCYzV9RL4CGIuvj0ZEwIfp3HqmSpBbFYGjBS&_nc_ohc=jJfxyRlALYgQ7kNvwFisjG0&_nc_oc=Adpl5jKpxx266nltiPkbWDaHd77XctVvAufLCmybpWzFYdfWnHx6zWCQz2EIKbqS7v4&_nc_zt=23&_nc_ht=scontent.fmnl33-5.fna&_nc_ss=7b3a8&oh=03_Q7cD7AGAPM82gv6dFiN91B62jIvP8lpeXibnEo1agkscJwMbkw&oe=6B30C8F5" alt="GitHub" />
       </a>
     </td>
   </tr>
-
-  <!-- MEMBER 4: VILLANUEVA, ABEGAIL -->
   <tr>
-    <td>
-      <!-- 👇 ILAGAY DITO ANG LINK O FILENAME NG PICTURE NI ABEGAIL (palitan ang ILAGAY_DITO_ANG_PICTURE_NI_VILLANUEVA.jpg) -->
-      <img src="ILAGAY_DITO_ANG_PICTURE_NI_VILLANUEVA.jpg" width="100" />
-    </td>
+    <td><img src="https://github.com/villanuevaabegail603-ux.png" width="100" /></td>
     <td>
       <b>Villanueva, Abegail</b><br>
       <a href="https://github.com/villanuevaabegail603-ux">
