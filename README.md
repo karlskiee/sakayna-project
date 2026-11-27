@@ -601,14 +601,6 @@ Exiting system. Thank you!
     <td>
       <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/673f7afe-19fa-422a-aecb-c366058d94ec" />
 
-      <img src="https://github.com/JM-HOBIE.png" width="100" />
-    </td>
-    <td>
-      <b>Mercado, Jove</b><br>
-      <a href="https://github.com/JM-HOBIE">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
