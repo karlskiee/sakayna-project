@@ -566,8 +566,47 @@ Displays the final message when the user chooses to exit.
 Exiting system. Thank you!
 ```
 
-## Group 7
-* **Dolor, John Karl** (`@karlskiee`)
-* **Macaraig, Brenlesly** (`@brenleslymacaraig`)
-* **Mercado, Jove** (`@JM-HOBIE`)
-* **Villanueva, Abegail** (`@villanuevaabegail603-ux`)[cite: 1]
+## 👥 Authors & Acknowledgements
+
+<table>
+  <tr>
+    <th></th>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td><img src="assets/dolor.jpg" width="100" /></td>
+    <td>
+      <b>Dolor, John Karl</b><br>
+      <a href="https://github.com/karlskiee">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/macaraig.jpg" width="100" /></td>
+    <td>
+      <b>Macaraig, Brenlesly</b><br>
+      <a href="https://github.com/brenleslymacaraig">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/mercado.jpg" width="100" /></td>
+    <td>
+      <b>Mercado, Jove</b><br>
+      <a href="https://github.com/JM-HOBIE">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="assets/villanueva.jpg" width="100" /></td>
+    <td>
+      <b>Villanueva, Abegail</b><br>
+      <a href="https://github.com/villanuevaabegail603-ux">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
