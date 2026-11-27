@@ -587,7 +587,7 @@ Exiting system. Thank you!
     <td>
       <b>Macaraig, Brenlesly</b><br>
       <a href="https://github.com/brenleslymacaraig">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+        <img src="[https://img.shields.io/badge/GitHub-100000?style=flat](https://scontent.fmnl37-1.fna.fbcdn.net/v/t1.15752-9/929889170_1144196924686120_5057922159914180048_n.jpg?stp=dst-jpg_tt6&cstp=mx747x883&ctp=s747x883&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEjXpp80pWFofUnwagGBlt4m701glVzmF-bvTWCVXOYX06B7pGsSiC6xItseJ4SRbRoAp7-9zPdsPh9m_DC-OR1&_nc_ohc=zhRNunUAajYQ7kNvwF_kItS&_nc_oc=Adq41Teb7WsU66opGmVf7ZDY5ipNt3UwAAH0UEqD6lhXJ12RJFDjpGvyOUbgIUXwMxA&_nc_zt=23&_nc_ht=scontent.fmnl37-1.fna&_nc_ss=7b3a8&oh=03_Q7cD7AEsdm0A3Ctux2TW3NzRp0RMRFXS37lU09MNikl7EqE9IA&oe=6B30E37C)&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
   </tr>
