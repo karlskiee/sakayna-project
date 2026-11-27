@@ -574,7 +574,9 @@ Exiting system. Thank you!
     <th>Name</th>
   </tr>
   <tr>
-    <td><img src="assets/dolor.jpg" width="100" /></td>
+    <td><img src="![Uploading 935833739_1575612471271061_6944279824876690266_n.jpg…]()
+<img width="1254" height="1254" alt="935833739_1575612471271061_6944279824876690266_n" src="https://github.com/user-attachments/assets/74bbecda-1125-457c-a5b5-a10963d4aa1d" />
+" width="100" /></td>
     <td>
       <b>Dolor, John Karl</b><br>
       <a href="https://github.com/karlskiee">
